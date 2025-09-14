@@ -95,6 +95,6 @@ TOTAL ORDERS jumped from 562 to 567 during its steepest incline between Thursday
 
 ---
 <h2><a class="anchor" id="author--contact"></a>📞Author & Contact</h2>
-**Divya**    
+**Divya**   <br> 
 📧 Email: divyahasija0510@gmail.com  <br>
 🔗 Linkedin: [LinkedIn](https://www.linkedin.com/in/divya-hasija-28955636a/)
