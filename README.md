@@ -14,14 +14,14 @@ This project is a comprehensive Power BI dashboard and mysql queries , designed 
 ----
 
 <h2><a class="anchor" id="January-2023-Insights"></a>♦️January 2023 Insights</h2>
-- TOTAL SALES trended down, resulting in a 6.94% decrease between Sunday, January 1, 2023 and Tuesday, January 31, 2023. 
-- TOTAL SALES started trending down on Tuesday, January 24, 2023, falling by 18.64% ($535) in 7 days. 
-- TOTAL ORDERS dropped from 586 to 462 during its steepest decline between Thursday, January 26, 2023 and Tuesday, January 3 1, 2023. 
-- TOTAL SALES for Weekday ($58,513) was higher than Weekend ($23,165). 
-- Weekday accounted for 71.64% of TOTAL SALES. 
-- TOTAL SALES experienced the longest period of growth (- $130) between Sunday January 1, 2023 and Sunday, January 8, 2023, and the longest decline (-$535) between Tuesday, January 24, 2023 and Tuesday, January 31, 2023. 
-- place holder and total TOTAL SALES are negatively correlated with each other. 
-- TOTAL SALES and place holder diverged the most when the product_category was Coffee, when TOTAL SALES were 31257 higher than place holder. 
+- TOTAL SALES trended down, resulting in a 6.94% decrease between Sunday, January 1, 2023 and Tuesday, January 31, 2023. <br>
+- TOTAL SALES started trending down on Tuesday, January 24, 2023, falling by 18.64% ($535) in 7 days. <br>
+- TOTAL ORDERS dropped from 586 to 462 during its steepest decline between Thursday, January 26, 2023 and Tuesday, January 3 1, 2023. <br>
+- TOTAL SALES for Weekday ($58,513) was higher than Weekend ($23,165). <br>
+- Weekday accounted for 71.64% of TOTAL SALES. <br>
+- TOTAL SALES experienced the longest period of growth (- $130) between Sunday January 1, 2023 and Sunday, January 8, 2023, and the longest decline (-$535) between Tuesday, January 24, 2023 and Tuesday, January 31, 2023. <br>
+- place holder and total TOTAL SALES are negatively correlated with each other. <br>
+- TOTAL SALES and place holder diverged the most when the product_category was Coffee, when TOTAL SALES were 31257 higher than place holder. <br>
 - Across all 9 product_category, place holder ranged from 0 to 0 and TOTAL SALES ranged from $522 to $31,257.
 
 <h2><a class="anchor" id="February-2023-Insights"></a>♦️February 2023 Insights</h2>
