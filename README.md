@@ -3,7 +3,7 @@ This project is a comprehensive Power BI dashboard and mysql queries , designed 
 ---
 
 ## 📌 Table of Contents
-- <a href="#January-2023-Insights">♦️January 2023 Insights</a>
+- <a href="#January-Insights">♦️January 2023 Insights</a>
 - <a href="#February-2023-Insights">♦️February 2023 Insights</a>
 - <a href="#March-2023-Insights"> ♦️March 2023 Insights</a>
 - <a href="#April-2023-Insights">♦️April 2023 Insights</a>
@@ -13,7 +13,7 @@ This project is a comprehensive Power BI dashboard and mysql queries , designed 
 - <a href="#author--contact">📞Author & Contact</a>
 ----
 
-<h2><a class="anchor" id="January-2023-Insights"></a>♦️January 2023 Insights</h2>
+<h2><a class="anchor" id="January-Insights"></a>♦️January 2023 Insights</h2>
 - TOTAL SALES trended down, resulting in a 6.94% decrease between Sunday, January 1, 2023 and Tuesday, January 31, 2023. <br>
 - TOTAL SALES started trending down on Tuesday, January 24, 2023, falling by 18.64% ($535) in 7 days. <br>
 - TOTAL ORDERS dropped from 586 to 462 during its steepest decline between Thursday, January 26, 2023 and Tuesday, January 3 1, 2023. <br>
